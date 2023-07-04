@@ -19,7 +19,7 @@
   "employees": [
     {
       "firstName": "Mohammad",
-      "lastName": "Akr",
+      "lastName": "Akradi",
       "email": "mo@gmail.com",
       "birthDate": "2023-07-03T20:30:00.000Z",
       "gender": "male",
@@ -42,15 +42,15 @@
       "id": 2
     },
     {
-      "firstName": "Sajad",
-      "lastName": "Afaghiy",
-      "email": "sajad@gmail.com",
-      "birthDate": "2023-07-17T20:30:00.000Z",
+      "firstName": "bill",
+      "lastName": "gates",
+      "email": "billgates@gmail.com",
+      "birthDate": "1992-07-08T19:30:00.000Z",
       "gender": "male",
-      "organization": "",
+      "organization": "mehbang",
       "education": "Diploma",
-      "experience": 5,
-      "salary": 4590,
+      "experience": 1,
+      "salary": 500,
       "id": 3
     }
   ]
